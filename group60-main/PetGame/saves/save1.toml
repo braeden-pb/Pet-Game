@@ -1,0 +1,20 @@
+[game]
+score = 0
+inuse = true
+lastPlayed = "2025-03-31T21:24:53.030254702"
+[pet]
+sleep = 100
+happiness = 90
+name = "sdsds"
+health = 150
+dead = false
+state = "normal"
+type = "dragon"
+hunger = 120
+[Inventory]
+apple = 5
+ball = 5
+teddy = 3
+cake = 1
+fidgetspinner = 1
+applepie = 3

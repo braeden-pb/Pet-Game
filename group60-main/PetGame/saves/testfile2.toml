@@ -1,0 +1,27 @@
+[game]
+score = 0
+inuse = false
+lastPlayed = "2025-03-19T15:30:00"
+[pet]
+sleep = 100
+happiness = 90
+name = "testfile.toml"
+health = 150
+dead = false
+state = "normal"
+type = "dragon"
+hunger = 120
+[Inventory]
+apple = 5
+ball = 5
+cake = 1
+fidgetspinner = 1
+teddy = 3
+applepie = 3
+[[closest.costumes]]
+name = "pirate"
+unlocked = false
+
+[[closest.costumes]]
+name = "robot"
+unlocked = true

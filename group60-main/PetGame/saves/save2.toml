@@ -1,0 +1,20 @@
+[game]
+score = 627
+inuse = true
+lastPlayed = "2025-03-31T22:34:49.362975541"
+[pet]
+sleep = 54
+happiness = 0
+name = "sasasa"
+health = 0
+dead = true
+state = "dead"
+type = "robot"
+hunger = 0
+[Inventory]
+apple = 5
+ball = 6
+teddy = 6
+cake = 2
+fidgetspinner = 2
+applepie = 4

@@ -1,0 +1,18 @@
+[saves]
+testfile = false
+save3 = true
+save1 = true
+save2 = true
+[stats]
+totalSecs = 34
+totalMins = 36
+totalSessions = 32
+avgHours = 0
+totalHours = 0
+avgMins = 1
+avgSecs = 8
+[parentalControls]
+timeLimit = false
+timeEnd = "23:08"
+password = "pass"
+timeStart = "01:22"
